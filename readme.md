@@ -17,13 +17,13 @@ My skills are broad in Python, Java, Data Science, AI and Cyber Security
 
 ### Social network :
 <div id="badges">
-  <a href="https://www.linkedin.com/in/kiet-vu-tuan-9035a123a/">
+  <a href="https://www.linkedin.com/in/b%C3%ACnh-nguy%E1%BB%85n-297650234/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.facebook.com/kiet.tuan.275/">
+  <a href="https://www.facebook.com/nkt.binh02/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://www.instagram.com/kaytee.od/">
+  <a href="https://www.instagram.com/binh.binh.222/">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>  
   <a href="https://steamcommunity.com/profiles/76561199250126035">
