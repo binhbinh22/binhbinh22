@@ -5,7 +5,7 @@
 </div>
 
 My skills are broad in Python, Java, Data Science, AI and Cyber Security
-- 🔭 I’m currently a Computer Science student at HUST and a researcher at BKAI lab...
+- 🔭 I’m currently a Information Technology Vietnam-Japan student at HUST and a researcher at BKAI lab...
 - 🌱 I’m currently learning Machine Learning and Deep Learning 
 - 👯 I’m looking to collaborate on Neural Networks and Natural Language Processing
 - 💬 You can ask me about AI and ML
