@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-My skills are broad in Python, Java, Data Science, AI and Cyber Security
+My skills are broad in Python, Java, Data Science, AI and Natural Language Processing
 - 🔭 I’m currently a Information Technology Vietnam-Japan student at HUST...
 - 🌱 I’m currently learning Machine Learning and Deep Learning 
 - 👯 I’m looking to collaborate on Neural Networks and Natural Language Processing
