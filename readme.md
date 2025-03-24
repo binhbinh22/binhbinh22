@@ -1,4 +1,4 @@
-### Hi i'm Nguyen Khac Thai Binh, and you can call me binhgold
+### Hi i'm Nguyen Khac Thai Binh, and you can call me Rennai (genAI) 
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
